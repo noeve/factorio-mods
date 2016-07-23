@@ -1,0 +1,14 @@
+--[[ Copyright (c) noeve & silentlord
+ * Part of the electrical boiler mod
+ *
+ * See LICENCE in the project directory for licence information
+--]]
+
+{
+	"name": "electrical-boiler",
+	"version": "0.0.1",
+	"title": "Electrical Boiler",
+	"author": "noeve & silentlord",
+	"description": "Adds electrical boilers	to heat water using electricity",
+	"dependencies": ["base >= 0.13.0"],
+}
